@@ -90,7 +90,7 @@ Link: https://packetlife.net/media/library/20/VLANs.pdf
 		- By Native VLAN when 802.1Q used.
 
 
-![DTP](/I%20-%20Network%20Access/Screenshots/DTP.png)
+![DTP](/II%20-%20Network%20Access/Screenshots/DTP.png)
 
 Disabling DTP:
 	- sw nonegotiate

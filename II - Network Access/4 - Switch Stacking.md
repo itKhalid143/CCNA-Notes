@@ -1,6 +1,6 @@
 # Switch Stacking
 
-![Stacking](/I%20-%20Network%20Access/Screenshots/stacking.png)
+![Stacking](/II%20-%20Network%20Access/Screenshots/stacking.png)
 
 
 Switch Stacking, Connecting 2 or more switchs in a specific way with specific cables:

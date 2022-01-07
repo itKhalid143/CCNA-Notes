@@ -34,7 +34,7 @@ Stands for **Spanning Tree Protocol**:
 
 - Must check version compability before updating STP.
 
-![Versions](/I%20-%20Network%20Access/Screenshots/SPT-versions.PNG)
+![Versions](/II%20-%20Network%20Access/Screenshots/SPT-versions.PNG)
 
 
 ## How Switches learn about each others
@@ -61,7 +61,7 @@ Different Versions of Spanning Tree.
 	
 - The switch port receive / send immediately, without going on the listenning/learning state.
 
-![Ports](/I%20-%20Network%20Access/Screenshots/Port-states.jpg)
+![Ports](/II%20-%20Network%20Access/Screenshots/Port-states.jpg)
 
 ***
 
