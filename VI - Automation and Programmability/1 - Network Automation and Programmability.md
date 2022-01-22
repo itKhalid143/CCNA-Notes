@@ -1,18 +1,22 @@
 For CCNA
-		- We don't have to learn Python and Ansible
-		- Openflow in the past (Centrelizing the Network)
-				- A Controller control the systems, the other devices turned dump and stupid .
-				- The Control Plane is only on the Controller.
-		- Control Plane/Data Plane/Management Plane
-				- Control Plane is the brain. (each Device has local intelligence)
-				- Data Plane
-				- Each node decide what to do.
-				- Management Plane (Manage using Telnet, SSH, SNMP, Syslog)
-		- Southbound API (Southbound Interface SBI)
-				- Devices talk to the Controler using SBI.
-		- Northbound API (Northbound Interface SBI)
-				- The Controler replies back to the devices.
-		- Don't rely on the autopilot everytime, when there's a problem, we should jump and fix it ourselves.
+
+- We don't have to learn Python and Ansible
+
+- Openflow in the past (Centrelizing the Network)
+	- A Controller control the systems, the other devices turned dump and stupid .
+	- The Control Plane is only on the Controller.
+
+- Control Plane/Data Plane/Management Plane
+	- Control Plane is the brain. (each Device has local intelligence)
+	- Data Plane
+	- Each node decide what to do.
+	- Management Plane (Manage using Telnet, SSH, SNMP, Syslog)
+
+- Southbound API (Southbound Interface SBI)
+		- Devices talk to the Controler using SBI.
+	- Northbound API (Northbound Interface SBI)
+		- The Controler replies back to the devices.
+	- Don't rely on the autopilot everytime, when there's a problem, we should jump and fix it ourselves.
 
 ***
 
